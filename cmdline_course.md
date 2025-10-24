@@ -145,7 +145,7 @@ Seeing my work live on the web was rewarding. I learned how Markdown, Jekyll, an
 | 5    | GitHub Pages & Jekyll         | Markdown, Jekyll, GitHub Pages |
 
   
-![Terminal Example](https://upload.wikimedia.org/wikipedia/commons/9/92/Terminal_Icon.png)  
+<img src="assets/images/echo-Hello-World-1536x685.webp" alt="Hello World!" wwidth=500"/>
 *One of my very first command.*
 
 ---
