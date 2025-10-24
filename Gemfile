@@ -6,4 +6,3 @@ gem 'webrick'
 gem "base64"
 gem "logger"
 gem "bigdecimal"
-gem "github-pages", group: :jekyll_plugins
