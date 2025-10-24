@@ -4,7 +4,7 @@ layout: default
 
 # Command Line Course Notes
 
-This course introduced the fundamentals of working with the command line, Unix-based tools, scripting, version control, and deploying content online. Each week focused on building practical skills that are useful for everyday computing, programming, and managing projects.
+Welcome to my Command Line course notes! This page summarizes the key skills and reflections from each week of the course.
 
 ---
 
