@@ -7,7 +7,7 @@ layout: default
 <img src="assets/images/49F9DB51-6F57-46F5-9CEC-0BC5B3C09318.jpeg" alt="Photo" hspace="20" width="30%" align="right"/> Hello world! I’m a Finnish language and literature student at the University of Helsinki, specializing in language technology. I’m passionate about combining linguistics and technology to create tools that enhance multilingual communication and digital understanding.
 
 ## CV
-[Link to my CV](/Users/ricky/templates/RickyDaley.github.io/assets/documents/CV - NLP Engineer)
+<a href="assets/documents/CV - NLP Engineer.pdf" target="_blank">Link to my CV</a>
 
 ## Find me on
 
