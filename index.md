@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-<h1 style="text-align: center;">Luu Tien Dat</h1>
-
 
 ## Introduction
 
