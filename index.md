@@ -6,18 +6,26 @@ layout: default
 
 <img src="assets/images/49F9DB51-6F57-46F5-9CEC-0BC5B3C09318.jpeg" alt="Photo" hspace="20" width="30%" align="right"/> Hello world! I’m a Finnish language and literature student at the University of Helsinki, specializing in language technology. I’m passionate about combining linguistics and technology to create tools that enhance multilingual communication and digital understanding.
 
+
+
 ## CV
 - <a href="assets/documents/CV - NLP Engineer.pdf" target="_blank">Link to my CV</a>
+
+
 
 ## Find me on
 
 [LinkedIn](https://www.linkedin.com/in/ricky-daley-482394b7/) or [GitHub](https://github.com/RickyDaley)
+
+
 
 ## Contact
 
 - luu.tiendat@helsinki.fi
 
 - Ricky.Daley.95@gmail.com
+
+
 
 ## Courses I've Taken
 
@@ -33,10 +41,14 @@ layout: default
 
 - [Statistics for Linguists](https://studies.helsinki.fi/courses/course-implementation/hy-opt-cur-2526-b0e19397-66f9-4889-8375-4aa61f3a09df), spring 2026
 
+
+
 ## Projects
 - [Building own website project](https://www.RickyDaley.github.io)
 
-## Interest
+
+
+## Interests
 
 - [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
 - [Linguistics](https://en.wikipedia.org/wiki/Linguistics)
