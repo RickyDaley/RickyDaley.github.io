@@ -144,6 +144,10 @@ Seeing my work live on the web was rewarding. I learned how Markdown, Jekyll, an
 | 4    | Processes & Git               | `ps`, `kill`, Git commands     |
 | 5    | GitHub Pages & Jekyll         | Markdown, Jekyll, GitHub Pages |
 
+
+
+
+
   
 <img src="assets/images/echo-Hello-World-1536x685.webp" alt="Hello World!" width="500"/>
 
