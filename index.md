@@ -45,7 +45,7 @@ Ricky.Daley.95@gmail.com
 
 ## Projects
 #### Building Personal Portfolio Website Project
-> A personal portfolio website showcasing my projects, skills, and studies. The site is automatically deployed through GitHub Pages using the repository’s main branch.
+> A personal portfolio website showcasing my projects, skills, and studies. The site is deployed through GitHub Pages with Jekyll.
 
 > URL: [https://rickydaley.github.io](https://rickydaley.github.io/)
 
