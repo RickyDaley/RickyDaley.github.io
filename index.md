@@ -21,9 +21,9 @@ layout: default
 
 ## Contact
 
-- luu.tiendat@helsinki.fi
+luu.tiendat@helsinki.fi
 
-- Ricky.Daley.95@gmail.com
+Ricky.Daley.95@gmail.com
 
 
 
@@ -44,8 +44,10 @@ layout: default
 
 
 ## Projects
-- [Building own website project](https://www.RickyDaley.github.io)
+#### Building Personal Portfolio Website Project
+> A personal portfolio website showcasing my projects, skills, and studies. The site is automatically deployed through GitHub Pages using the repository’s main branch.
 
+> URL: [https://rickydaley.github.io](https://rickydaley.github.io/)
 
 
 ## Interests
