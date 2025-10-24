@@ -144,9 +144,9 @@ Seeing my work live on the web was rewarding. I learned how Markdown, Jekyll, an
 | 4    | Processes & Git               | `ps`, `kill`, Git commands     |
 | 5    | GitHub Pages & Jekyll         | Markdown, Jekyll, GitHub Pages |
 
-**Example Image:**  
+  
 ![Terminal Example](https://upload.wikimedia.org/wikipedia/commons/9/92/Terminal_Icon.png)  
-*Terminal showing basic command-line workflow.*
+*One of my very first command.*
 
 ---
 
